@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @alvinrach
-- 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Data Science, Machine Learning, Computer Vision
+- 🌱 I’m currently learning Deep Learning (TensorFlow)
 - 💞️ I’m looking to collaborate on a Data Science Project
-- 📫 How to reach me On Linkedin u can reach me
+- 📫 How to reach me On Linkedin u can message me
 
-soon i will release my second portfolio about my last datathon. about car insurance. wait it before 10 may 2021 :)
-now im still also exploring on Github, like a scout cavalry on Age of Empire 2 :D
+I am new on Github. So for several days ahead i'll be transfering some projects.
 
 <!---
 alvinrach/alvinrach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
