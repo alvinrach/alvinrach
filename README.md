@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alvinrach
-- 👀 I’m interested in Data Science, Machine Learning, Computer Vision
+- 👀 I’m interested in Data Science, Machine Learning, Computer Vision, NLP
 - 🌱 I’m currently learning Deep Learning (TensorFlow)
 - 💞️ I’m looking to collaborate on a Data Science Project
 - 📫 How to reach me On Linkedin u can message me
