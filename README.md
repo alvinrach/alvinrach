@@ -1,7 +1,7 @@
 Machine Learning & Deep Learning (various projects)
 
-[Linkedin](linkedin.com/in/alvin-rachmat)
-[CV](alvinrach.github.io)
+[Linkedin](linkedin.com/in/alvin-rachmat)  
+[CV & About](alvinrach.github.io)
 
 After a while, I started to feel that I need to choose my preferred Data Science domain. I've decided, here it is:
 
