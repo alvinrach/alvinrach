@@ -2,6 +2,8 @@ Machine Learning & Deep Learning (various projects)
 
 linkedin.com/in/alvin-rachmat
 
+alvinrach.github.io
+
 After a while, I started to feel that I need to choose my preferred Data Science domain. I've decided, here it is:
 
 -Stock market related domain: time series forecasting, anomaly detection, reinforcement learning, etc  
