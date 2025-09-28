@@ -1,4 +1,6 @@
 Machine Learning & AI (various projects)
 
-[Linkedin](https://www.linkedin.com/in/alvin-rachmat)  
-[CV & About](https://alvinrach.github.io)
+[CV & About](https://alvinrach.github.io)  
+[Linkedin](https://www.linkedin.com/in/alvin-rachmat)
+
+Me yesterday may not be the same with me today. Invest early.
